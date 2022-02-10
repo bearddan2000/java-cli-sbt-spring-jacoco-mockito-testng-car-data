@@ -1,0 +1,6 @@
+name: YAML test
+parallel: tests
+tests:
+- name: "First"
+  classes:
+  - name: example.CarTest
